@@ -51,7 +51,7 @@
     "gzip-size": "^6.0.0",
     "is-ci": "^2.0.0",
     "jest-expect-message": "^1.0.2",
-    "js-yaml": "^4.0.0",
+    "js-yaml": "^4.3.2",
     "p-queue": "^6.6.2",
     "p-retry": "^4.3.0",
     "progress": "^2.0.3",
